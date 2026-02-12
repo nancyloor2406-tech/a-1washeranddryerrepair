@@ -1,0 +1,47 @@
+    <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px; font-size: large; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">1. How quickly can you get a technician to my home?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">We prioritize "same day dryer repair near me" in #State whenever possible. Most appointments are scheduled within 24 hours of your initial call to minimize your laundry backlog.</p>
+                <h4 class="template4 palooma" style="font-size:medium;">2. Do you charge by the hour or by the job?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">We provide a flat-rate quote after the initial diagnostic. You will know exactly what the "dryer repair cost" will be before any work begins, so there are no surprises.</p>
+                <h4 class="template4 palooma" style="font-size:medium;">3. Do I receive a quote before the actual repair starts?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes. After a complete diagnostic of your unit, we provide a firm, transparent quote for the parts and labor. We only begin the repair once you have approved the cost.</p>
+                <h4 class="template4 palooma" style="font-size:medium;">4. Do you work on Samsung or high-end European models?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Absolutely. Our team is trained to handle samsung dryer repair as well as Bosch, Miele, and other specialized brands. We use specific parts compatible with your manufacturer’s standards.</p>
+                <h4 class="template4 palooma" style="font-size:medium;">5. How long does a typical service visit take? 
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Most common repairs, such as belt or fuse swaps, are finished within an hour or two in #State.</p>
+                <div class="callalooma mx-auto"><a href="tel:888-910-4766">Click Here To Call Us (888) 910-4766</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>

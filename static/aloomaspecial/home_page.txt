@@ -1,0 +1,46 @@
+    <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px; font-size: large; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">1. How much does a typical dryer repair cost?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Costs vary based on the specific part needed—for example, a thermal fuse is a much simpler fix than a drive motor. We always provide transparent, upfront quotes after our initial diagnostic before any work begins.</p>
+                <h4 class="template4 palooma" style="font-size:medium;">2. Is it better to repair or replace an old dryer?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">If the repair cost is less than half the price of a new unit and the machine is otherwise in good condition, a professional fix is usually the smarter investment. Many modern dryers can last 10–15 years with the right maintenance.</p>
+                <h4 class="template4 palooma" style="font-size:medium;">3. Why is my dryer taking two or three cycles to dry one load?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">This is often a sign of a clogged exhaust vent or a failing heating element. We can diagnose airflow issues to prevent fire hazards and improve your machine's efficiency immediately.</p>
+                <h4 class="template4 palooma" style="font-size:medium;">4. Do you offer same-day service nationwide?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">We strive for same-day or next-day appointments in most major U.S. cities and surrounding areas, depending on local technician availability and the time of your call.</p>
+                <h4 class="template4 palooma" style="font-size:medium;">5. Are your technicians certified to work on gas dryers?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes, our professionals are trained to safely handle both electric and gas dryer repairs, including valve issues, igniter replacements, and gas line safety checks.</p>
+                <div class="callalooma mx-auto"><a href="tel:href="tel:888-910-4766">Click Here To Call Us (888) 910-4766</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">States In USA</h2>
+        <div class="row">
+            aloomaidallfotter
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Most popular cities we serve</h2>
+        <div class="row">
+            aloomaidallfottecity
+        </div>
+        </section>
+    </div>
